@@ -11,6 +11,7 @@ $ ./decoder
 ```
 
 Result:
+
 ![Decoder truth table](images/tt_structural_decoder.png)
 
 Run:
@@ -19,6 +20,7 @@ $ gtkwave sdecoder.vcd
 ```
 
 Result (after some dragging):
+
 ![Decoder waveform](images/structural_decoder.png)
 
 ## Multiplexer
@@ -30,6 +32,7 @@ $ ./multiplexer
 ```
 
 Result:
+
 ![Multiplexer truth table](images/tt_structural_multiplexer.png)
 
 Run:
@@ -38,6 +41,7 @@ $ gtkwave smultiplexer.vcd
 ```
 
 Result (after some dragging):
+
 ![Multiplexer waveform](images/structural_multiplexer.png)
 
 ## Adder
@@ -49,6 +53,7 @@ $ ./adder
 ```
 
 Result:
+
 ![Adder truth table](images/tt_structural_adder.png)
 
 Run:
@@ -57,4 +62,5 @@ $ gtkwave sadder.vcd
 ```
 
 Result (after some dragging):
+
 ![Adder waveform](images/structural_adder.png)
